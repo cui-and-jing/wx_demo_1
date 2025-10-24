@@ -1,0 +1,11 @@
+{
+  "name": "stack-match-mvp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node tools/manual-build.js",
+    "logic-check": "node tools/logic-check.js",
+    "pack": "node tools/package-bundle.js",
+    "decode": "node tools/decode-bundle.js"
+  }
+}
