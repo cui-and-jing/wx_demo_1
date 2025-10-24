@@ -6,5 +6,5 @@
     "uploadFile": 10000,
     "downloadFile": 10000
   },
-  "showStatusBar": "light"
+  "showStatusBar": false
 }
