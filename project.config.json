@@ -1,0 +1,14 @@
+{
+  "miniprogramRoot": "./",
+  "compileType": "game",
+  "projectname": "stack-match-mvp",
+  "appid": "touristappid",
+  "setting": {
+    "es6": true,
+    "enhance": true,
+    "postcss": false,
+    "minified": false
+  },
+  "libVersion": "2.32.0",
+  "condition": {}
+}
